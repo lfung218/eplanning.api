@@ -28,8 +28,7 @@ namespace eplanning.api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<EplanningContext>(options => options.UseNpgsql(Configuration.GetConnectionString("EplanningConnection")));
-            services.AddMvc()
-            .AddJsonOptions(x => x.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
