@@ -1,0 +1,10 @@
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/bin/Debug/netcoreapp2.0/eplanning.api.deps.json
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/bin/Debug/netcoreapp2.0/eplanning.api.runtimeconfig.json
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/bin/Debug/netcoreapp2.0/eplanning.api.runtimeconfig.dev.json
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/bin/Debug/netcoreapp2.0/eplanning.api.dll
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/bin/Debug/netcoreapp2.0/eplanning.api.pdb
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/obj/Debug/netcoreapp2.0/eplanning.api.csproj.CoreCompileInputs.cache
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/obj/Debug/netcoreapp2.0/eplanning.api.AssemblyInfoInputs.cache
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/obj/Debug/netcoreapp2.0/eplanning.api.AssemblyInfo.cs
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/obj/Debug/netcoreapp2.0/eplanning.api.dll
+/Users/lfung218/Documents/ACCTMIS3610/eplanning.api/obj/Debug/netcoreapp2.0/eplanning.api.pdb
